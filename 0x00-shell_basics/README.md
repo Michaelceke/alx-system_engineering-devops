@@ -9,3 +9,4 @@ directory in temp
 9-firstdirdeletion
 change to previous 10back
 lists long formator working and parent directory
+12-file_type
