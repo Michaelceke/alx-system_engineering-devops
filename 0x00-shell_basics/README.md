@@ -13,3 +13,4 @@ lists long formator working and parent directory
 13-symbolic_link
 copyHtmlFiles
 letsmove
+clean Emacs
