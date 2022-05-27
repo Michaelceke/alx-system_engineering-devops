@@ -8,3 +8,4 @@ directory in temp
 8-firstDelete
 9-firstdirdeletion
 change to previous 10back
+lists long formator working and parent directory
