@@ -4,3 +4,4 @@ listit,listDirectories
 listHiddenLong
 5-listfilesdigitonly
 directory in temp
+7-movethefile
