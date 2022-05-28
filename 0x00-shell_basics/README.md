@@ -16,3 +16,4 @@ letsmove
 clean Emacs
 Tree
 commas
+magic file school.mgc
